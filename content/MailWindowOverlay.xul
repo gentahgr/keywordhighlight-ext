@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<!-- This overlay is for Thunderbird -->
+
+<overlay id="keywordhighlight_mail" xmlns="http://www.mozilla.org/keymaster/gatekeeper/there.is.only.xul">
+  <script type="application/x-javascript" src="chrome://global/content/nsUserSettings.js" />
+  <script type="application/x-javascript" src="keywordhighlight.js" />
+  <script language="javascript" type="application/x-javascript"><![CDATA[//
+    window.addEventListener("load", function(e) { keywordhighlight_main._onMsgWndLoad(e); }, false);
+  ]]></script>
+</overlay>
+

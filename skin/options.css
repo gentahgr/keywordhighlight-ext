@@ -1,0 +1,15 @@
+/* change listbox style */
+
+/* Cleary indicate selected item by border */
+#setlist > listitem[selected=true] {
+	border: 2px solid black;
+}
+
+#set_fontscale {
+	width: 3em;
+}
+
+#alert_fontscale {
+	background-color: red;
+	color: white;
+}

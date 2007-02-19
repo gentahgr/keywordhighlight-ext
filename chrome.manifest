@@ -1,0 +1,9 @@
+content	keywordhighlight	content/
+locale	keywordhighlight	en-US	locale/en-US/
+locale	keywordhighlight	en-GB	locale/en-US/
+locale	keywordhighlight	ja-JP	locale/ja-JP/
+skin	keywordhighlight	classic/1.0	skin/
+
+overlay	chrome://messenger/content/messenger.xul	chrome://keywordhighlight/content/thunderbirdOverlay.xul
+overlay	chrome://messenger/content/mailWindowOverlay.xul	chrome://keywordhighlight/content/MailWindowOverlay.xul
+style	chrome://global/content/customizeToolbar.xul	chrome://keywordhighlight/skin/overlay.css
