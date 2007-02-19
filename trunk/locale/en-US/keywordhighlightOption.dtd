@@ -1,0 +1,18 @@
+<!ENTITY optionwindow.title "Keyword highlight settings">
+<!ENTITY optionwindow.keywords "Highlight keywords">
+<!ENTITY optionwindow.keywords_ackey "K">
+<!ENTITY optionwindow.sample "Highlight Sample">
+<!ENTITY optionwindow.additem "Add color set">
+<!ENTITY optionwindow.additem_ackey "A">
+<!ENTITY optionwindow.fgbutton "Character color">
+<!ENTITY optionwindow.fgbutton_ackey "F">
+<!ENTITY optionwindow.bgbutton "Background color">
+<!ENTITY optionwindow.bgbutton_ackey "H">
+<!ENTITY optionwindow.boldchk "Bold">
+<!ENTITY optionwindow.boldchk_ackey "B">
+<!ENTITY optionwindow.underlinechk "Underline">
+<!ENTITY optionwindow.underlinechk_ackey "U">
+<!ENTITY optionwindow.fontscale "Font scale[1-300]">
+<!ENTITY optionwindow.fontscale_ackey "S">
+<!ENTITY optionwindow.list "Color Set">
+<!ENTITY optionwindow.list_ackey "L">

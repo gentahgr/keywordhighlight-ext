@@ -1,0 +1,18 @@
+<!ENTITY optionwindow.title "Keyword Highlightの設定">
+<!ENTITY optionwindow.keywords "色分けするキーワード">
+<!ENTITY optionwindow.keywords_ackey "K">
+<!ENTITY optionwindow.sample "ハイライト サンプル">
+<!ENTITY optionwindow.additem "色セットの追加">
+<!ENTITY optionwindow.additem_ackey "A">
+<!ENTITY optionwindow.fgbutton "文字色">
+<!ENTITY optionwindow.fgbutton_ackey "F">
+<!ENTITY optionwindow.bgbutton "背景色">
+<!ENTITY optionwindow.bgbutton_ackey "H">
+<!ENTITY optionwindow.boldchk "太字">
+<!ENTITY optionwindow.boldchk_ackey "B">
+<!ENTITY optionwindow.underlinechk "下線">
+<!ENTITY optionwindow.underlinechk_ackey "U">
+<!ENTITY optionwindow.fontscale "文字拡大率[1-300]">
+<!ENTITY optionwindow.fontscale_ackey "S">
+<!ENTITY optionwindow.list "設定リスト一覧">
+<!ENTITY optionwindow.list_ackey "L">
