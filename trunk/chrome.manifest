@@ -2,6 +2,7 @@ content	keywordhighlight	content/
 locale	keywordhighlight	en-US	locale/en-US/
 locale	keywordhighlight	en-GB	locale/en-US/
 locale	keywordhighlight	ja-JP	locale/ja-JP/
+locale	keywordhighlight	it-IT	locale/it-IT/
 skin	keywordhighlight	classic/1.0	skin/
 
 overlay	chrome://messenger/content/messenger.xul	chrome://keywordhighlight/content/thunderbirdOverlay.xul
