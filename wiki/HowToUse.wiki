@@ -23,7 +23,7 @@ A new menu *Keyword Highlight* added in __Tool__ menu takes you to the configura
 
 Enter keywords in the test box. And choose foreground color, background color, bold and/or underline and font size. You can add as many color sets as you want.
 
-http://code.google.com/p/keywordhighlight-ext/wiki/ConfigScreen-en.png
+http://keywordhighlight-ext.googlecode.com/svn/wiki/ConfigScreen-en.png
 
 === note ===
 Please do not enter same word twice or more. Duplication of keywords changes font size twice or more. Let's see you set 200% for a keywords and it is enterd twice. So the word will be shown in 400% size.
