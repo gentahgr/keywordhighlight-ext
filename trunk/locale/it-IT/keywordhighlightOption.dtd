@@ -7,7 +7,7 @@
 <!ENTITY optionwindow.fgbutton "Colore del carattere">
 <!ENTITY optionwindow.fgbutton_ackey "C">
 <!ENTITY optionwindow.bgbutton "Colore dello sfondo">
-<!ENTITY optionwindow.bgbutton_ackey "S">
+<!ENTITY optionwindow.bgbutton_ackey "F">
 <!ENTITY optionwindow.boldchk "Grassetto">
 <!ENTITY optionwindow.boldchk_ackey "G">
 <!ENTITY optionwindow.underlinechk "Sottolineato">

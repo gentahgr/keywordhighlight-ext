@@ -4,7 +4,7 @@
   <Description about="urn:mozilla:install-manifest">
     <em:id>{960fdb8e-78d3-49c2-aba4-745fbf88fe58}</em:id>
     <em:name>Keyword Highlight</em:name>
-    <em:version>1.0</em:version>
+    <em:version>1.01</em:version>
     <em:creator>genta.hgr</em:creator>
     <em:aboutURL>chrome://keywordhighlight/content/about.xul</em:aboutURL>
     <em:optionsURL>chrome://keywordhighlight/content/options.xul</em:optionsURL>
