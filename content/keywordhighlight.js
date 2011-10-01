@@ -39,11 +39,12 @@ var keywordhighlight_main = {
   _Finder: null,
 
   _onMsgWndLoad: function(e) {
+    dump("Enter: _onMsgWndLoad\n");
     keywordhighlight_main._Finder =
     	Components.classes["@mozilla.org/embedcomp/rangefind;1"].createInstance().QueryInterface(Components.interfaces.nsIFind);
     keywordhighlight_main._messagePane = document.getElementById('messagepane'); // browser parenting the document
-    if( ! this._messagePane ){
-    	alert("empty _messagePane" );
+    if( ! keywordhighlight_main._messagePane ){
+    	dump("_messagePane is empty.\n" );
     	return;
     }
     //this.strings = document.getElementById("keywordhighlight-strings");
